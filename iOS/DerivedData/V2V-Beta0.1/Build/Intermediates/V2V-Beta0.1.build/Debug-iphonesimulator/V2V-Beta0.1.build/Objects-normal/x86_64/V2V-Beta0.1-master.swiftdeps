@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "1e282ef126c2c9922cfb2d2948100cb7"
+inputs: 
+- "/Users/kk/Desktop/iOS/V2V-Beta0.1/V2V-Beta0.1/ViewController.swift"
+- "/Users/kk/Desktop/iOS/V2V-Beta0.1/V2V-Beta0.1/AppDelegate.swift"
+- "/Users/kk/Desktop/iOS/V2V-Beta0.1/V2V-Beta0.1/MPCManager.swift"
